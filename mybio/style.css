@@ -30,7 +30,7 @@ margin: 60px;: Adds 60 pixels of margin around the container to avoid the conten
 .job{
     color: rgb(0, 0, 0);
 }
-/*Defines the image dimensions as 180x180 pixels and rounds the corners by 10% for a slight curvature. */
+/*Defines the image dimensions as 180x180 pixels. and rounds the corners by 10% for a slight curvature. */
 .selfie{
     text-align: center;
     width: 183px;
