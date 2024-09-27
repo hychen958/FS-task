@@ -1,0 +1,28 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    justify-content:space-between;
+    background-color: green;
+    height: 600px;
+  }
+  
+  h1 {
+    flex: 1;
+    /* flex: 1; */
+    background-color: red;
+  }
+  
+  nav {
+    flex: 1;
+    background-color: yellow;
+  }
+
+  content{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
