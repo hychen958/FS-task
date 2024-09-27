@@ -55,7 +55,7 @@ width: 20%;: Sets the width to 20% of the parent container's width. */
     background-color: rgb(0, 217, 255); 
 }
 
-/*Defines an alternate background color (a red shade) for any elements using this class. */
+/*Defines an alternate background color (a red shade) for any elements using this class1. */
 .link-colors{
     background-color: rgb(255, 85, 85);
 }
